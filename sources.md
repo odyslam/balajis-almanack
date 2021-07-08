@@ -1,6 +1,6 @@
 ## Sources
 
-- [Best of Balaji -- notion 10hr archive](https://www.bestofbalaji.com/Best-of-Balaji-e5f6f635d4fe4a9aa60fd37ed61a814c)
+- [Best of Balaji -- by Grant Nissly](https://www.bestofbalaji.com/Best-of-Balaji-e5f6f635d4fe4a9aa60fd37ed61a814c)
 - https://archive.balajis.com/
 - [Balajis content archive 2013-2020](https://balajis.com/content-archive/)
 
