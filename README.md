@@ -27,3 +27,10 @@ yes, please.
 
 MIT License
 
+## Contributors
+
+<a href="https://github.com/OdysLam/balajis-almanack/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=OdysLam/balajis-almanack" />
+</a>
+
+Made with [contributors-img](https://contrib.rocks).
