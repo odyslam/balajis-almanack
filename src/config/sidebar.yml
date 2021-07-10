@@ -1,0 +1,10 @@
+# Sidebar navigation
+
+- label: 'Introduction'
+  link: '/'
+- label: Concepts
+  items:
+    - label: 'The Network State'
+      link: '/concepts/network-state'
+- label: Sources
+  link: '/sources'
