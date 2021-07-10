@@ -33,4 +33,6 @@ MIT License
   <img src="https://contrib.rocks/image?repo=OdysLam/balajis-almanack" />
 </a>
 
-Made with [contributors-img](https://contrib.rocks).
+Made with [contributors-img](https://contrib.rocks). 
+
+Contributors are updated on a daily basis.
