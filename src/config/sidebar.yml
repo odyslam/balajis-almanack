@@ -6,5 +6,15 @@
   items:
     - label: 'The Network State'
       link: '/concepts/network-state'
+    - label: 'Bitcoin'
+      link: '/concepts/bitcoin-flag'
+    - label: 'The Citizen Journalist'
+      link: '/concepts/citizen-journalism'
+    - label: 'Tech evanglizm'
+      link: '/concepts/evangelize-tech'
+    - label: 'Pseudoanonymous Economy'
+      link: '/concepts/pseudoanonymous-economy'
+    - label: 'The Purpose Of Technology'
+      link: '/concepts-purpose-technology'
 - label: Sources
   link: '/sources'
