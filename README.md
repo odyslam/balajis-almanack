@@ -16,7 +16,7 @@ This repository houses both the source files for the [website](https://www.besto
 
 We edit the build files and use [Gatsby](https://www.gatsbyjs.com/) to generate the source files for the website. The website is built automatically to track the latest version of the `main` branch. It is hosted on [Cloudflare Pages](https://pages.cloudflare.com/).
 
-## Add/Edit content (e.g a new Concept)
+### Add/Edit content (e.g a new Concept)
 
 To add content to the website, we need to do 2 things:
 - Add/edit a concept on the `src/@rocketseat/docs/concepts` category
@@ -31,7 +31,7 @@ Since we automatically build the website on every new version of `main`, all PRs
 - Push the changes to your GitHub repository
 - Visit your GitHub repository, click on `make PR` button and make sure you make the PR to the `dev` branch of `odyslam/balajis-almanack`.
 
-## Change the Website (e.g background colour)
+### Change the Website (e.g background colour)
 
 We use a theme kindly provided by Rocketseat, thus:
 - Read the [docs](https://rocketdocs.netlify.app/) of the theme for details on how various components work (e.g code snippets)
