@@ -27,7 +27,8 @@ Since we automatically build the website on every new version of `main`, all PRs
 
 - Fork the repository to your GitHub account
 - Clone the forked repository locally
-- Change what you must
+- Change to the `dev` branch, so that you have the latest development version. To change a branch, run `git checkout dev`.
+- Make the changes on the forked repository
 - Push the changes to your GitHub repository
 - Visit your GitHub repository, click on `make PR` button and make sure you make the PR to the `dev` branch of `odyslam/balajis-almanack`.
 
