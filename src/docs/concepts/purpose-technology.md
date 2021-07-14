@@ -27,17 +27,13 @@ There’s actually a movie by I think, Andrew Niccol, called “In Time” that 
 Thus, Balaji argues, the ultimate purpose of technology is to eliminate (non-accidental) mortality. To reverse aging. And it may [now actually be possible](https://www.nature.com/articles/d41586-020-03403-0) to do this:
 
 > It may be possible to reverse aging. [https://t.co/gvnjbUMML5](https://t.co/gvnjbUMML5) [pic.twitter.com/nB24sAZ9rj](https://t.co/nB24sAZ9rj)
-> 
 > — balajis.com (@balajis) [July 11, 2020](https://twitter.com/balajis/status/1281989289232879618?ref_src=twsrc%5Etfw)
 
 The problem is that not many people are aware of this, nor think it is possible.
 
 > The world: So, aging is impossible to change, basically there's nothing we can do to...  
->   
 > Longevity scientists: We engineered a mouse to live 2x longer than normal!  
->   
 > The world: ...as I was saying, aging is impossible to change, there's nothing we can do
-> 
 > — Laura Deming (@LauraDeming) [October 7, 2020](https://twitter.com/LauraDeming/status/1313932404814299136?ref_src=twsrc%5Etfw)
 
 To reverse aging, and thus to achieve the ultimate purpose of technology, Balaji argues we need to [evangelize technology](evangelize-tech.html):
@@ -47,9 +43,7 @@ To reverse aging, and thus to achieve the ultimate purpose of technology, Balaji
 "Put another way: we may not get life extension or the whole suite of transhumanist technologies (brain-machine interfaces, stem cells, CRISPR gene therapy, and more) unless you, personally, evangelize them online. Not just tweets, but articles."
 
 > Ending death should be the highest priority of technology. We now know that reversing aging may actually be technically achievable.  
->   
 > It’s also important to make life extension tech widely accessible, like a vaccine, for ethical reasons and to build the largest possible coalition. [https://t.co/9MDPs5EKFm](https://t.co/9MDPs5EKFm)
-> 
 > — balajis.com (@balajis) [July 14, 2020](https://twitter.com/balajis/status/1283037635343273985?ref_src=twsrc%5Etfw)
 
 * * *
