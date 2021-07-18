@@ -16,5 +16,7 @@
       link: '/concepts/pseudoanonymous-economy'
     - label: 'The Purpose Of Technology'
       link: '/concepts/purpose-technology'
-- label: Sources
-  link: '/sources'
+- label: Other
+  items:
+    - label: Sources
+      link: '/sources'
