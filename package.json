@@ -1,11 +1,10 @@
 {
-  "name": "gatsby-starter-rocket-docs",
+  "name": "best of balajis",
   "private": true,
   "version": "1.0.0",
-  "description": "Out of the box Gatsby Starter for creating documentation websites easily and quickly. With support for MDX, code highlight, Analytics, SEO and more",
-  "author": "João Pedro Schmitz <hey@joaopedro.dev> (@jpedroschmitz)",
+  "description": "A website condensing the ideas and concepts of @balajis",
+  "author": "Odysseas Lamtzidis",
   "license": "MIT",
-  "starter-name": "gatsby-starter-rocket-docs",
   "dependencies": {
     "@rocketseat/gatsby-theme-docs": "^2.3.1",
     "gatsby": "^3.0.4",
@@ -22,8 +21,7 @@
   "devDependencies": {},
   "keywords": [
     "gatsby",
-    "rocketseat",
-    "gatsby-starter"
+    "balajis"
   ],
   "scripts": {
     "build": "gatsby build",
