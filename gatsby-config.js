@@ -6,7 +6,7 @@ module.exports = {
     siteDescription: `Health. Truth. Wealth. In that order.`,
     siteUrl: `https://bestofbalaji.com`,
     siteAuthor: `@1729ers`,
-    siteImage: `/banner.png`,
+    siteImage: `/favicon.jpeg`,
     siteLanguage: `en`,
     themeColor: `#F5F5DC`,
     basePath: `/`,
